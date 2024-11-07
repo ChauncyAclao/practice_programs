@@ -10,8 +10,7 @@ for n in range(2):
                         numbers.append(int(num))
                        
                         break
-                        
-                
+ 
                 except ValueError:
                         print('try again')
 
